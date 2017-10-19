@@ -5,3 +5,14 @@
 #### [Complete Documentation Available Here](https://github.com/DaneTheory/Ridiculously-Awesome-Weather-App/wiki)
 
 ***
+
+### Installation
+
+Make sure you have Node >= v4.0. Then run the following commands:
+
+```
+npm install
+npm start
+```
+
+The app will start on `localhost:3000`.
