@@ -4,6 +4,8 @@
 
 #### [Complete Documentation Available Here](https://github.com/DaneTheory/Ridiculously-Awesome-Weather-App/wiki)
 
+![alt text](https://github.com/DaneTheory/Ridiculously-Awesome-Weather-App/blob/master/images/RidiculouslyAwesomeWeatherApp.gif)
+
 ***
 
 ### Installation
